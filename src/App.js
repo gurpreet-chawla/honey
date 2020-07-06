@@ -200,7 +200,7 @@ Wish him on Youtube, Instagram, Facebook  </div>
                               <div >
                           <h2> What is Gurpreet Chawla’s life journey?</h2>
                           Gurpreet started his life as a “perfectly imperfect” child with many flaws.
-                          His teachers encouraged him a lot Being a Punjabi, humor is his born talent and hence, ended up being a standup comedian too. He always loved science So he did his bachelor’s in mechanical engineering.
+                          His teachers encouraged him a lot. He always loved science So he did his bachelor’s in mechanical engineering.Being a Punjabi, humor is his born talent and hence, ended up being a standup comedian too. 
                                 </div><br/><br/><br/>
                                 <div className="r" id="s">
                                     <h2> Height of Gurpreet Chawla?   </h2>
@@ -228,20 +228,19 @@ He believes the best utilization of free time is self-improving yourself and dev
 
                                     <div className="r" id="s">
                                     <h2> Who is Gurpreet Chawla’s father? </h2>
-He lives in your                        Mr. Kulvir Chawla
+                      Mr. Kulvir Chawla
                                     </div>
                                     <div className="r" id="s">
                                     <h2> Where is Gurpreet Chawla from? </h2>
-                                    He lives in your hearts but if you are looking for a postal address sorry, we cannot mention that.
+                                    He is from Rudrapur
                                     </div>
                                     <div className="r" id="s">
                                     <h2> Who are Gurpreet Chawla’s parents?</h2>
-                                    He lives in your hearts but if you are looking for a postal address sorry, we cannot mention that.
+                                    <ul>
+<li><strong>Father-</strong>Mr.Kulveer Chawla</li>
+<li><strong>Mother-</strong>Mrs Inderjeet Kaur Chawla</li> </ul>
                                     </div>
-                                    <div className="r" id="s">
-                                    <h2> What is Gurpreet Chawla’s Instagram handle?</h2>
-                                    Gurpreet can be reached on Instagram, the username is guru469chawla but he isn’t that active. Try your luck.
-                                    </div>
+                                    
                                     
                          </span>
 
