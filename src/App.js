@@ -2,6 +2,8 @@ import React from 'react';
 import "./Menu.css";
 
 import Menu from './Menu';
+import honey from './honey';
+
 
 
 
@@ -21,6 +23,7 @@ function App() {
        <Route path="/academics" component={Academics} />
        <Route path="/projects" component={Projects} />
        <Route path="/contact" component={Contact} />
+       <Route path="/honey" component={Home} />
        
        </switch>
     
@@ -79,7 +82,7 @@ const Home = () => {
                     </div>
 
                   <div className="pro"> <span className="project">
-                   <strong id="font"> <a>Quize System </a></strong>
+                   <strong id="font"> <a href={"https://gurpreet-chawla.github.io/quizguru"}>Quize System </a></strong>
                    
                      </span>
                      <span className="project">
